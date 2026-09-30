@@ -2,7 +2,7 @@
 
 ### Private Document Intelligence powered by Local AI + RAG
 
-![DocuMind AI Overview](documind-ai-overview.png)
+![DocuMind AI Overview](documind-banner.png)
 
 DocuMind AI is a privacy-focused document question-answering application that allows users to upload PDF documents and ask questions about their contents.
 
